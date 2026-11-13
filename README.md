@@ -44,7 +44,7 @@ All figures below were drawn by rtpcr-java itself (data: `data_2factorBlock3ref.
 
 ## Quick start
 
-### Option 1: run the JAR (Windows, Linux, macOS)
+### Option 1: run the [JAR](https://github.com/mirzaghaderi/rtpcr-java/releases) (Windows, Linux, macOS)
 
 Requires a Java runtime, version 17 or newer.
 
