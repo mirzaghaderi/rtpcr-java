@@ -19,7 +19,7 @@ rtpcr-java is a Java implementation of the R package [**rtpcr**](https://github.
 | Module | What it does |
 |---|---|
 | **Data window** | 21 bundled example data sets; add your own CSV/TXT files; open any file in a function with its parameters pre-filled. |
-| **ImportQPCR** | Machine result file → rtpcr input table. Replicate Ct-SD clean-up after [Auto-qPCR](https://github.com/neuroeddu/Auto-qPCR), merging of plates, splitting of sample names into condition / factors / replicate. |
+| **ImportQPCR** | Machine result file → rtpcr input table. Replicate Ct-SD clean-up, merging of plates, splitting of sample names into condition / factors / replicate. |
 | **Efficiency** | Standard curves from a dilution series (slope, R², E) and comparison of slopes among genes by ANCOVA. |
 | **AbsQuant** | Absolute quantification: standard curves, copy numbers, optional reference-gene normalization, warnings for E, R² and range. |
 | **ANOVA_DCt / ANOVA_DDCt** | Efficiency-weighted ΔCt / ΔΔCt; CRD, factorial and block designs; user-defined linear and `(1 \| id)` mixed models; `specs` for simple effects; emmeans contrasts and compact letters. |
