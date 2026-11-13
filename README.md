@@ -57,7 +57,7 @@ This starts the program and opens it in your browser.
 
 ### Option 2: Windows installer
 
-Installing on windows using msi installation file (Operating System: Windows only). Download rtpcr_2.2.1_win.msi. Install as a common windows installer then double-click rtpcr icon to launch the app. This is a java translated an stand alone version of the shiny_rtpcr without any dependencies.
+Installing on windows using msi installation file (Operating System: Windows only). Download [rtpcr_2.2.0_win.msi](https://github.com/mirzaghaderi/rtpcr-java/releases). Install as a common windows installer then double-click rtpcr icon to launch the app. This is a java translated an stand alone version of the shiny_rtpcr without any dependencies.
 
 ## Input format
 
