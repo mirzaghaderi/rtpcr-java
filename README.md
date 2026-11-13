@@ -99,14 +99,6 @@ An Output example using data_2factorBlock3ref.csv file and Concentration in `spe
 The full reference (all ImportQPCR settings, AbsQuant, plot editing, Try! key, Data window, installer, what is ported) is in [docs/REFERENCE.md](docs/REFERENCE.md).
 
 
-
-## Citation
-
-If you use rtpcr-java, please cite the software paper (details to follow) and the R package:
-
-> Mirzaghaderi, G. (2025). rtpcr: A package for statistical analysis and graphical presentation of qPCR data in R. *PeerJ* **13**, e20185.
-
-
 ## License
 
 GPL-3 (as the R package rtpcr).
