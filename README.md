@@ -11,8 +11,8 @@ rtpcr-java is a Java implementation of the R package [**rtpcr**](https://github.
 ## Why rtpcr-java?
 
 - **From instrument file to figure.** *ImportQPCR* turns a QuantStudio / Applied Biosystems result file into the input table (with technical-replicate QC), and the plot editor lets you finish the figure with the mouse.
-- **Statistics that match the design.** Efficiency-weighted ΔCt and ΔΔCt, multiple reference genes, factorial and blocked ANOVA, random-intercept mixed models for repeated measures, t and Wilcoxon tests, standard curves and absolute quantification.
-- **Private and repeatable.** mean compatisons like R emmeans, showing mean comparison results as letters, starts, or brackets, on bar plots.
+- **Statistics that match the design.** Efficiency-weighted ΔCt and ΔΔCt, multiple reference genes, factorial and blocked ANOVA, random-intercept mixed models for repeated measures, t and Wilcoxon tests, standard curves and absolute quantification. More about models can be found ![here](https://github.com/mirzaghaderi/rtpcr#relative-expression).
+- **Private and repeatable.** mean comparisons like R emmeans, showing mean comparison results as letters, stars, or brackets, on bar plots.
 
 ## Features
 
