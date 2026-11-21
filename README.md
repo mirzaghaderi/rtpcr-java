@@ -4,7 +4,7 @@
 
 ![Java 17+](https://img.shields.io/badge/Java-17%2B-orange) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue) ![License](https://img.shields.io/badge/license-GPL--3-green)
 
-rtpcr-java is a Java implementation of the R package [**rtpcr**](https://github.com/mirzaghaderi/rtpcr) 2.2.1 and of its Shiny interface ([shiny_rtpcr](https://mirzaghaderi.shinyapps.io/rtpcr)). It runs as a desktop application, as a local web application or from the command line, and needs **nothing but Java 17 or newer**: no R, no packages or server.
+[rtpcr-java](https://github.com/mirzaghaderi/rtpcr-java/releases/tag/v2.2.1) is a Java implementation of the R package rtpcr_2.2.1 and of its Shiny interface (shiny_rtpcr). It runs as a desktop application, as a local web application or from the command line, and needs **nothing but Java 17 or newer**: no R, no packages, and no server.
 
 ![Workflow of rtpcr-java](docs/images/workflow.png)
 
