@@ -32,7 +32,7 @@ All figures below were drawn by rtpcr-java itself (data: `data_2factorBlock3ref.
 
 **ANOVA_DDCt with replicate data points** (plate as block, three reference genes, `specs = Concentration | Type`)
 
-![ANOVA_DDCt plot](docs/images/plot_ddct_points.png)
+![ANOVA_DDCt plot](docs/images/qPCR_Plot_box.jpg)
 
 **ANOVA_DCt with column comparisons shown as letters**
 
